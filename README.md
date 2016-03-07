@@ -3,4 +3,5 @@
 
 Hi!
 
-I am learning to code and this is cool.
+I am learning to code and this is challenging.
+Github requires patience.
